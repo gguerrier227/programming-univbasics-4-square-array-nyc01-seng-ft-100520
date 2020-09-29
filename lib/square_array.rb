@@ -5,3 +5,5 @@ def square_array(numbers)
 end
 
 while
+
+4.square!
